@@ -10,5 +10,5 @@ Após o commit um arquivo volta para o estado unmodified porém em uma nova vers
 
 Teste de modificação
 
-
+Nova modificação 01/08/2019 - Teste teste teste
 
